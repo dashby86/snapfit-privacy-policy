@@ -9,7 +9,7 @@
 - **Complete privacy** - Your workouts are yours alone
 
 ## View the Policy
-Visit: https://[your-username].github.io/snapfit-privacy-policy
+Visit: https://dashby86.github.io/snapfit-privacy-policy
 
 ## About SnapFit
 SnapFit is a simple, privacy-focused workout timer app with a snapping turtle theme. Built with Flutter for iOS and Android.
